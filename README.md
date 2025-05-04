@@ -1,4 +1,4 @@
-﻿# Dungeon Descent
+﻿# Dungeon Descend
 
 A turn-based card game where you battle through a dungeon, using attack and defense cards to defeat enemies and progress through floors.
 
